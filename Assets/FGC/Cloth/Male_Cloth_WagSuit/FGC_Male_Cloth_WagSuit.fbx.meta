@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 3ce5d6dad257d89418ffa1a6e6ea91c7
+timeCreated: 1471963362
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FGC_Male_Cloth_WagSuit_Rig
+    100004: FGC_Male_Cloth_WagSuit_Skin
+    100006: mcl_WgS_Abdomen
+    100008: mcl_WgS_Chest
+    100010: mcl_WgS_Head
+    100012: mcl_WgS_Hip
+    100014: mcl_WgS_Left Collar
+    100016: mcl_WgS_Left Foot
+    100018: mcl_WgS_Left Forearm
+    100020: mcl_WgS_Left Hand
+    100022: mcl_WgS_Left Shin
+    100024: mcl_WgS_Left Shoulder
+    100026: mcl_WgS_Left Thigh
+    100028: mcl_WgS_lEye
+    100030: mcl_WgS_lIndex1
+    100032: mcl_WgS_lIndex2
+    100034: mcl_WgS_lIndex3
+    100036: mcl_WgS_lMid1
+    100038: mcl_WgS_lMid2
+    100040: mcl_WgS_lMid3
+    100042: mcl_WgS_lowerJaw
+    100044: mcl_WgS_lPinky1
+    100046: mcl_WgS_lPinky2
+    100048: mcl_WgS_lPinky3
+    100050: mcl_WgS_lRing1
+    100052: mcl_WgS_lRing2
+    100054: mcl_WgS_lRing3
+    100056: mcl_WgS_lThumb1
+    100058: mcl_WgS_lThumb2
+    100060: mcl_WgS_lThumb3
+    100062: mcl_WgS_lToe
+    100064: mcl_WgS_Neck
+    100066: mcl_WgS_rEye
+    100068: mcl_WgS_Right Collar
+    100070: mcl_WgS_Right Foot_
+    100072: mcl_WgS_Right Forearm
+    100074: mcl_WgS_Right Hand
+    100076: mcl_WgS_Right Shin
+    100078: mcl_WgS_Right Shoulder
+    100080: mcl_WgS_Right Thigh
+    100082: mcl_WgS_rIndex1
+    100084: mcl_WgS_rIndex2
+    100086: mcl_WgS_rIndex3
+    100088: mcl_WgS_rMid1
+    100090: mcl_WgS_rMid2
+    100092: mcl_WgS_rMid3
+    100094: mcl_WgS_rPinky1
+    100096: mcl_WgS_rPinky2
+    100098: mcl_WgS_rPinky3
+    100100: mcl_WgS_rRing1
+    100102: mcl_WgS_rRing2
+    100104: mcl_WgS_rRing3
+    100106: mcl_WgS_rThumb1
+    100108: mcl_WgS_rThumb2
+    100110: mcl_WgS_rThumb3
+    100112: mcl_WgS_rToe
+    100114: mcl_WgS_tongue01
+    100116: mcl_WgS_tongue02
+    100118: mcl_WgS_tongue03
+    100120: mcl_WgS_tongue04
+    100122: mcl_WgS_tongue05
+    100124: mcl_WgS_tongueBase
+    100126: mcl_WgS_tongueTip
+    100128: mcl_WgS_upperJaw
+    400000: //RootNode
+    400002: FGC_Male_Cloth_WagSuit_Rig
+    400004: FGC_Male_Cloth_WagSuit_Skin
+    400006: mcl_WgS_Abdomen
+    400008: mcl_WgS_Chest
+    400010: mcl_WgS_Head
+    400012: mcl_WgS_Hip
+    400014: mcl_WgS_Left Collar
+    400016: mcl_WgS_Left Foot
+    400018: mcl_WgS_Left Forearm
+    400020: mcl_WgS_Left Hand
+    400022: mcl_WgS_Left Shin
+    400024: mcl_WgS_Left Shoulder
+    400026: mcl_WgS_Left Thigh
+    400028: mcl_WgS_lEye
+    400030: mcl_WgS_lIndex1
+    400032: mcl_WgS_lIndex2
+    400034: mcl_WgS_lIndex3
+    400036: mcl_WgS_lMid1
+    400038: mcl_WgS_lMid2
+    400040: mcl_WgS_lMid3
+    400042: mcl_WgS_lowerJaw
+    400044: mcl_WgS_lPinky1
+    400046: mcl_WgS_lPinky2
+    400048: mcl_WgS_lPinky3
+    400050: mcl_WgS_lRing1
+    400052: mcl_WgS_lRing2
+    400054: mcl_WgS_lRing3
+    400056: mcl_WgS_lThumb1
+    400058: mcl_WgS_lThumb2
+    400060: mcl_WgS_lThumb3
+    400062: mcl_WgS_lToe
+    400064: mcl_WgS_Neck
+    400066: mcl_WgS_rEye
+    400068: mcl_WgS_Right Collar
+    400070: mcl_WgS_Right Foot_
+    400072: mcl_WgS_Right Forearm
+    400074: mcl_WgS_Right Hand
+    400076: mcl_WgS_Right Shin
+    400078: mcl_WgS_Right Shoulder
+    400080: mcl_WgS_Right Thigh
+    400082: mcl_WgS_rIndex1
+    400084: mcl_WgS_rIndex2
+    400086: mcl_WgS_rIndex3
+    400088: mcl_WgS_rMid1
+    400090: mcl_WgS_rMid2
+    400092: mcl_WgS_rMid3
+    400094: mcl_WgS_rPinky1
+    400096: mcl_WgS_rPinky2
+    400098: mcl_WgS_rPinky3
+    400100: mcl_WgS_rRing1
+    400102: mcl_WgS_rRing2
+    400104: mcl_WgS_rRing3
+    400106: mcl_WgS_rThumb1
+    400108: mcl_WgS_rThumb2
+    400110: mcl_WgS_rThumb3
+    400112: mcl_WgS_rToe
+    400114: mcl_WgS_tongue01
+    400116: mcl_WgS_tongue02
+    400118: mcl_WgS_tongue03
+    400120: mcl_WgS_tongue04
+    400122: mcl_WgS_tongue05
+    400124: mcl_WgS_tongueBase
+    400126: mcl_WgS_tongueTip
+    400128: mcl_WgS_upperJaw
+    4300000: FGC_Male_Cloth_WagSuit_Skin
+    9500000: //RootNode
+    13700000: FGC_Male_Cloth_WagSuit_Skin
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

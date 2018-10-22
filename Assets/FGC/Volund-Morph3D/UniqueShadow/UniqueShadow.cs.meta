@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b663df9dbc795ce44b65ef2bd54b9d0f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - uniqueShadowUniversalShader: {fileID: 4800000, guid: 611709395ffc949c19a2120a1a4a9e73,
+      type: 3}
+  - uniqueShadowDepthShader: {fileID: 4800000, guid: 4cd1cc3fe24924d40bd04b92727549e0,
+      type: 3}
+  executionOrder: -100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
